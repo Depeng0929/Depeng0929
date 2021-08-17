@@ -1,8 +1,8 @@
 Hi there 👋
 I'm Depeng, a Chinese front-end engineering.
 
-* 🌱 I’m currently learning NodeJS.
-* 💬 My Blog: [Depeng's Blog](https://www.kongdp.top)
+* I’m currently learning NodeJS.
+* My Blog: [Depeng's Blog](https://www.kongdp.top)
 
 ## Languages & Tools
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Depeng0929&show_icons=true)
