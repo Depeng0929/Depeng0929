@@ -1,5 +1,5 @@
 Hi there 👋
-I'm Depeng, a Chinese front-end engineering.
+I'm Depeng, a Chinese front-end engineer.
 
 * I’m currently learning NodeJS.
 * My Blog: [Depeng's Blog](https://www.kongdp.top)
